@@ -1,3 +1,3 @@
-### HarunuYakala
+### CatchHarun
 
-Ekranda rastgele noktalarda beliren resmi yakalayıp puan kazanmaya çalıştığımız bir oyun çalışması.
+A game study where we try to capture the picture that appears at random points on the screen and try to earn points.
